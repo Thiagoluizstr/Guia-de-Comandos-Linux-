@@ -3,8 +3,8 @@
   <br>
   O Guia de Comandos Linux
 </h1>
-<p>Esse guia foi criado para ajudar pessoas que querem migrar de sistema operacional para uma distro linux. Sinta-se a vontade para adicionar, fazer correções ou melhorar a descrição de alguns comandos listados aqui</p>
-<
+<p>Esse guia foi criado para ajudar pessoas que querem migrar de sistema operacional para uma distro linux. Sinta-se a vontade para adicionar, fazer correções ou melhorar a descrição de alguns comandos listados aqui</p> 
+
 ## Linguagem Linux
 
 - **DIRETÓRIOS:** Diferente do Windows, no linux é mais comum utilizar o termo **diretório** do que o termo **pasta** para se referir a uma localização no disco
